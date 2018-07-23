@@ -21,15 +21,15 @@
       "name": "Schlafsessel Rovigo",
       "price": 239.99,
       "currency": "EUR",
-      "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1094806_xl.jpg?w=700",
-      "url": "http://www.home24.de/m-rteens/schlafsessel-rovigo-kunstleder-weiss-911671"
+      "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1186048_xl.jpg?w=700",
+      "url": "https://01.avoncdn.com/shop/assets/en/prod/prod_1167506_xl.jpg?w=700"
     },
     {
       "id": 4,
       "name": "Sessel Little",
       "price": 119.99,
       "currency": "EUR",
-      "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1094806_xl.jpg?w=700",
+      "image": "https://02.avoncdn.com/shop/assets/en/prod/prod_0110355_xl.jpg?w=700",
       "url": "http://www.home24.de/m-rteens/sessel-little-webstoff-rot-757345"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Sessel Peacock",
       "price": 599.99,
       "currency": "EUR",
-      "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1094806_xl.jpg?w=700",
+      "image": "https://02.avoncdn.com/shop/assets/en/prod/prod_1029470_xl.jpg?w=700",
       "url": "http://www.home24.de/kare-design/sessel-peacock-stoff-mehrfarbig"
     },
     {
@@ -46,6 +46,38 @@
       "price": 149.99,
       "currency": "EUR",
       "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1094806_xl.jpg?w=700",
+      "url": "http://www.home24.de/re-concept/sessel-anna-stoff-olivgruen-779539"
+    },
+    {
+      "id": 7,
+      "name": "Brow Definer",
+      "price": 249.99,
+      "currency": "EUR",
+      "image": "https://02.avoncdn.com/shop/assets/en/prod/prod_1190912_xl.jpg?w=700",
+      "url": "http://www.home24.de/re-concept/sessel-anna-stoff-olivgruen-779539"
+    },
+    {
+      "id": 8,
+      "name": " Haiku Eau de Parfum",
+      "price": 99.99,
+      "currency": "EUR",
+      "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1002146_xl.jpg?w=700",
+      "url": "http://www.home24.de/re-concept/sessel-anna-stoff-olivgruen-779539"
+    },
+    {
+      "id": 9,
+      "name": "Far Away Parfum",
+      "price": 109.99,
+      "currency": "EUR",
+      "image": "https://02.avoncdn.com/shop/assets/en/prod/prod_1175029_xl.jpg?w=700",
+      "url": "http://www.home24.de/re-concept/sessel-anna-stoff-olivgruen-779539"
+    },
+     {
+      "id": 10,
+      "name": " Haiku Body Lotion",
+      "price": 99.99,
+      "currency": "EUR",
+      "image": "https://01.avoncdn.com/shop/assets/en/prod/prod_1002148_xl.jpg?w=700",
       "url": "http://www.home24.de/re-concept/sessel-anna-stoff-olivgruen-779539"
     }
   ]

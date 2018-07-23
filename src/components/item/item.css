@@ -1,0 +1,25 @@
+.search {
+    padding: 0px;
+    margin: 20px;
+    transition: 0.2s;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    border-radius: 0 !important;
+}
+
+.search:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.product-image {
+    width: 12vw;
+}
+
+.panel-body {
+    text-align: center;
+}
+
+.buy-btn {
+    position: absolute;
+    right: 7px;
+    bottom: 3px;
+}

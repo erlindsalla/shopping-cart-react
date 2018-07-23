@@ -1,0 +1,19 @@
+
+.shop-icon {
+    float: right;
+    font-size: 25px;
+    margin-top: 10px;
+    color: #5cb85c;
+    cursor: pointer;
+}
+
+nav {
+    margin: 0 -15px;
+}
+
+.badge {
+    float: right;
+    margin-top: 5px;
+    margin-right: 12px;
+    cursor: pointer;
+}
